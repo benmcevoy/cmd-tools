@@ -9,4 +9,5 @@ add to your path and run in administrator command window
 - head - do a HEAD for the url
 - get - do GET for the Url
 - wp - list the worker processes and pids
+- touch - update last modified on file
 
