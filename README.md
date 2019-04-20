@@ -1,4 +1,5 @@
-#cmd-tools
+cmd-tools
+============================================
 
 handy aliases for IIS and windows dev
 
@@ -16,15 +17,15 @@ add to your path and run in administrator command window, or powershell
 
 
 # example figlet
-figlet "oh hi" .\fonts\sm_iso.flf
+`figlet "oh hi" .\fonts\sm_iso.flf`
 
 # customize your PS profile to inlcude common scripts
-# do you have a profile?
-Test-Path $profile
+## do you have a profile?
+`Test-Path $profile`
 
-# make a profile
-New-Item -path $profile -type file –force
+## make a profile
+`New-Item -path $profile -type file –force`
 
-# edit the profile, add this
+## edit the profile, add this
 ".\markjump.ps1"
 
