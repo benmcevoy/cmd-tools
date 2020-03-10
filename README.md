@@ -29,7 +29,7 @@ add to your path and run in administrator command window, or powershell
 
 ```
 
-Love me some [figlet](http://www.figlet.org/)
+Love me some [figlet](https://github.com/benmcevoy/figlet)
 
 # customize your PS profile to inlcude common scripts
 ## do you have a profile?
