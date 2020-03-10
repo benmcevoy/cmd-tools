@@ -17,14 +17,16 @@ add to your path and run in administrator command window, or powershell
 
 
 # example figlet
-`figlet "oh hi" .\fonts\sm_iso.flf`
+`figlet "oh hi" .\fonts\larry3d.flf`
 ```
-        _       _      _
-       | |     | |    (_)
-  ___  | |__   | |__   _
- / _ \ | '_ \  | '_ \ | |
-| (_) || | | | | | | || |
- \___/ |_| |_| |_| |_||_|
+         __                     __
+        /\ \                   /\ \         __
+  ___   \ \ \___               \ \ \___    /\_\
+ / __`\  \ \  _ `\              \ \  _ `\  \/\ \
+/\ \L\ \  \ \ \ \ \              \ \ \ \ \  \ \ \
+\ \____/   \ \_\ \_\              \ \_\ \_\  \ \_\
+ \/___/     \/_/\/_/               \/_/\/_/   \/_/
+
 ```
 
 # customize your PS profile to inlcude common scripts
