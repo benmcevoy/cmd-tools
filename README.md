@@ -29,6 +29,8 @@ add to your path and run in administrator command window, or powershell
 
 ```
 
+Love me some [figlet](http://www.figlet.org/)
+
 # customize your PS profile to inlcude common scripts
 ## do you have a profile?
 `Test-Path $profile`
