@@ -18,6 +18,14 @@ add to your path and run in administrator command window, or powershell
 
 # example figlet
 `figlet "oh hi" .\fonts\sm_iso.flf`
+```
+        _       _      _
+       | |     | |    (_)
+  ___  | |__   | |__   _
+ / _ \ | '_ \  | '_ \ | |
+| (_) || | | | | | | || |
+ \___/ |_| |_| |_| |_||_|
+```
 
 # customize your PS profile to inlcude common scripts
 ## do you have a profile?
