@@ -39,5 +39,5 @@ Love me some [figlet](https://github.com/benmcevoy/figlet)
 `New-Item -path $profile -type file –force`
 
 ## edit the profile, add this
-".\markjump.ps1"
+`. markjump.ps1`
 
