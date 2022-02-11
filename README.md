@@ -5,7 +5,7 @@ handy aliases for IIS and windows dev
 
 add to your path and run in administrator command window, or powershell
 
-- kill # reset iis immediately /timeout:0
+- kiss # reset iis immediately /timeout:0
 - hosts # open hosts file in notepad
 - head # do a HEAD for the url
 - get # do GET for the Url
